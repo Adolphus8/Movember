@@ -1,2 +1,3 @@
 # Movember
-A repository to the codes and articles which illustrate my running performance for the annual Movember campaign.
+An open repository to the codes illustrating my running data/performance for the annual Movember campaign as well as relevant articles which I authored. 
+Enjoy!
